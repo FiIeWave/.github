@@ -1,10 +1,10 @@
 # FileWave File Upload Service
 
-Welcome to FileWave, the ultimate file upload service designed to make sharing files a breeze. Whether you need to send large documents, images, or videos, PinkDrop has got you covered.
+Welcome to FileWave, the ultimate file upload service designed to make sharing files a breeze. Whether you need to send large documents, images, or videos, FileWave has got you covered.
 
 ## Why Choose FileWave?
 
-PinkDrop offers a range of features that set it apart from other file upload services. Here's what makes us stand out:
+FileWave offers a range of features that set it apart from other file upload services. Here's what makes us stand out:
 
 - **Lightning-fast uploads**: Say goodbye to long waiting times. With FileWave, you can upload your files quickly and effortlessly.
 
